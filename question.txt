@@ -1,0 +1,12 @@
+1. Identify Top 5 Most Streamed Songs and Their Artists
+2.  Analyze Artist Popularity Ranking Based on Monthly Listeners
+3. Analyze User Listening Patterns and Behavior Statistics
+4. Perform Genre-wise Market Share and Performance Analysis
+5. Compare Premium vs Free User Engagement and Value Metrics
+6. Rank Users by Engagement Level and Listening Activity
+7. Identify Top Performing Songs Within Each Genre Category
+8. wGenerate Personalized Song Recommendations Based on Listening History   
+9. Identify Cross-Promotion Opportunities Between Artists
+10. Analyze Daily Streaming Trends and Patterns (Last 7 Days)
+11. Calculate User Retention Rates and Churn Analysis
+12. Analyze Content Performance Based on Song Duration Categories
