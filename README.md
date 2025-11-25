@@ -2,7 +2,7 @@
 
 ## Project Overview
 **Project Title:** Music Streaming Analytics  
-**Level:** Intermediate  
+**Level:** Beginner  
 **Database:** Oracle SQL
 
 This project demonstrates SQL skills for analyzing music streaming data. It includes database setup, data insertion, and 12 analytical queries that provide insights into user behavior, content performance, and business metrics for a music streaming platform.
